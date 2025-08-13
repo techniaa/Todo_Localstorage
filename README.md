@@ -1,4 +1,4 @@
-# Todo_Localstorage
+
 # To-Do List App
 
 A simple, interactive To-Do List web application built with Vanilla JavaScript and styled using Tailwind CSS.  
@@ -39,3 +39,6 @@ The app allows users to add, edit, mark as complete, and delete tasks with data 
 
 ```bash
 git clone https://github.com/yourusername/todo-list-app.git
+=======
+# Todo_Localstorage
+>>>>>>> 0e724cdeb6d6644ff6b8986d616f08ccc8c4d278
